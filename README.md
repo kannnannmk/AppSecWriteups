@@ -8,6 +8,10 @@ If you are so curious to check this out and learn about, just download the docx.
 
 Thank you.
 
+Added documents:
+
+ 1. SQL Injection to RCE
+ 2.Broken Access Control - Previlege Escalation
 
 
 
