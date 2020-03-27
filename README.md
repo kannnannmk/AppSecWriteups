@@ -12,7 +12,7 @@ Added documents:
 
  1. SQL Injection to RCE
  
- 2.Broken Access Control - Previlege Escalation
+ 2. Broken Access Control - IDOR, viewing other users email 
 
 
 
